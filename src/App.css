@@ -74,3 +74,8 @@ input[type="text"] {
 .button:hover {
   background-color: #4b5bc1; 
 }
+
+.error {
+  color: red;
+  font-weight: bold;
+}
